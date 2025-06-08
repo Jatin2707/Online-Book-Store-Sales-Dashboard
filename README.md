@@ -57,6 +57,6 @@ Table Measure – DAX measures like Total Revenue, Quantity Sold, Avg. Order Val
 
 
 
-Tools
+
 
 
